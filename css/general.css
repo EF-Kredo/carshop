@@ -102,3 +102,8 @@ table {
   border-spacing: 5px 10px;
   border-collapse: collapse;
 }
+
+#container {
+  width: 85%;
+  margin: auto;
+}
